@@ -11,6 +11,12 @@ I tinker with new tech for fun, but I focus on building things that actually hel
 
 ---
 
+## 📌 Pinned Project
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelD889872398743&repo=ArrayMate&theme=transparent)](https://github.com/MichaelD889872398743/ArrayMate)
+
+---
+
 ## 🛠 Tech Stack
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white)
