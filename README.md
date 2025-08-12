@@ -1,7 +1,8 @@
 # Hi there, I'm Michael 👋
 
-Welcome to my GitHub profile!  
-I’m passionate about automation, AI tools, and building solutions that make life easier.
+I enjoy building tools that make processes easier, faster, and more reliable.  
+My projects often blend automation, data analysis, and modern frontend development.  
+I tinker with new tech for fun, but I focus on building things that actually help people.
 
 ---
 
@@ -10,20 +11,28 @@ I’m passionate about automation, AI tools, and building solutions that make li
 
 ---
 
-## 📊 GitHub Stats
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelD889872398743&show_icons=true&theme=tokyonight)
-
----
-
 ## 🛠 Tech Stack
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=f7df1e)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?logo=powerapps&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=databricks&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?logo=google&logoColor=white)
+![Google%20Apps%20Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google-drive&logoColor=white)
 
 ---
 
-## ✨ Fun fact
-I once got a clean LinkedIn URL without numbers — pretty rare!
+## 🌱 Currently learning
+- Advanced React patterns
+- Tailwind CSS animations
+- Local AI integrations with Ollama
 
+---
+
+## 💡 Fun fact
+I like my projects like my coffee — practical, strong, and a bit experimental.
